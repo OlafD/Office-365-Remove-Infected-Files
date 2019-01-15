@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RemoveInfectedFiles>
+  <!-- url for the tenant site -->
+  <TenantUrl>https://m365x233845-admin.sharepoint.com</TenantUrl>
+
+  <!-- from address for sending mails -->
+  <MailFrom>admin@m365x233845.onmicrosoft.com</MailFrom>
+
+  <!-- address for the smtp server to use for sending mails -->
+  <SmtpServer>smtp.office365.com</SmtpServer>
+
+  <!-- port number for the smtp server to use for sending mails -->
+  <SmtpPort>587</SmtpPort>
+</RemoveInfectedFiles>
