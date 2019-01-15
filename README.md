@@ -9,4 +9,10 @@ When a file is deleted, an email notification is sent. Depending on the type of 
 - the owners group for a Teams site
 - the members of the associated owners group for a SharePoint Online site
 
+The RemoveInfectedFiles.Param.xml file is used for parameters, needed in the script but normally not changed for each execution. In this file set
+- the tenant url (https://company-admin.sharepoint.com)
+- the sender address for the notification mails
+- the smtp server for the notification mails
+- the smpt port for the notification mails
+
 When the script is executed, a transcript is written to the folder specifield, when the script was started.
