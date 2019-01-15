@@ -15,4 +15,4 @@ The RemoveInfectedFiles.Param.xml file is used for parameters, needed in the scr
 - the smtp server for the notification mails
 - the smtp port for the notification mails
 
-When the script is executed, a transcript is written to the folder specifield, when the script was started.
+When the script is executed, a transcript is written to the folder specified, when the script was started.
